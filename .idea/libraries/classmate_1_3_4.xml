@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="classmate-1.3.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/classmate-1.3.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/hibernate-validator-6.1.5.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/hibernate-validator-annotation-processor-6.1.5.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/hibernate-validator-cdi-6.1.5.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/jakarta.el-3.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/jakarta.validation-api-2.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-validator-6.1.5.Final/dist/add_this_folder/jboss-logging-3.3.2.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
